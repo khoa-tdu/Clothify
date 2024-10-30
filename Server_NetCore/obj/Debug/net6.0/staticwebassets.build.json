@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EXuxscsk6TJONtVdhAaaS+XxLyGMkX2QWh+HpRGI5iE=",
+  "Source": "Server_NetCore",
+  "BasePath": "_content/Server_NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
